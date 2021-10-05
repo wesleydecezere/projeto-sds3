@@ -1,5 +1,5 @@
-import Footer from "components/Footer";
-import NavBar from "components/NavBar";
+import Footer from "components/footer";
+import NavBar from "components/navbar";
 import { Link } from "react-router-dom";
 
 const Home = () => {
