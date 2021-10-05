@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react'
 import { SalePage } from 'types/sale'
 import { formatLocalDate } from 'utils/format'
 import { BASE_URL } from 'utils/requests'
-import Pagination from 'components/pagination'
+import Pagination from 'components/Pagination'
 
 function DataTable() {
   const [page, setPage] = useState<SalePage>({
