@@ -2,19 +2,20 @@
 
 > *Dashboard de vendas desenvolvido durante a [Semana Dev Superior 3](https://github.com/devsuperior/sds3).*
 
+### Preview
 
+<p align='center'>
+    <img src='./Dashboard.png' alt='Dashboard' width= 80%>
+</p>
 
-<div> <img src='Home.png' alt='Home' width='49.8%'> <img src='Dashboard.png' alt='Home' width='49.8%'> </div>
-
-![Dashboard](Dashboard.png)
-
-
-
-### Live
+### Demo
 
 O projeto pode ser acessado pelo endereço [sdsvendas.wadworks.space](sdsvendas.wadworks.space).
 
-## Tecnologias e ferramentas utilizadas
+## Descrição
+
+### Tecnologias e ferramentas utilizadas
+
 * Spring Boot
 * ReactJS
 * PostgreSQL
@@ -30,4 +31,4 @@ O *backend* da aplicação, hospedado no Heroku, foi desenvolvido em Java, fazen
 
 ### Frontend
 
-No *frontend*, utilizou-se TypeScript e a biblioteca ReactJS. O *deploy* da interface foi feito no Netlify, através da integração com o no GitHub.
+No *frontend*, utilizou-se TypeScript e a biblioteca ReactJS. O *deploy* da interface foi feito no Netlify, através da integração com o GitHub.
