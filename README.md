@@ -10,7 +10,7 @@
 
 ### Demo
 
-O projeto pode ser acessado pelo endereço [sdsvendas.wadworks.space](sdsvendas.wadworks.space).
+O projeto pode ser acessado pelo endereço [sdsvendas.wadworks.space](http://sdsvendas.wadworks.space).
 
 ## Descrição
 
